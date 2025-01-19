@@ -1,4 +1,6 @@
 Weather App 🌦️
+
+
 This is a simple weather application that provides current weather information and search functionality for different cities. It was developed by following a tutorial from FreeCodeCamp's YouTube channel.
 
 Key Features
